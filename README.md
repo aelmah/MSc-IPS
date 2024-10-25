@@ -1,5 +1,5 @@
 # MSc-Data-Science-and-Engineering-
-![image](https://github.com/almasstudyjourney/MSc-Data-Science-and-Engineering-/blob/main/fsr-um5.png)
+![image](https://github.com/almasstudyjourney/MSc-Data-Science-and-Engineering/blob/main/Banner-um5.png)
 
 ## A propos de l'UM5
 
