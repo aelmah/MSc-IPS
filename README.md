@@ -65,36 +65,6 @@ Les objectifs du Master sont de :
 | **M2 (Les 2 options)** | S4       | M22            | Stage en Entreprise ou en Structure de Recherche | Application pratique des compétences acquises durant le cursus dans un environnement professionnel ou de recherche. |
 |       | S4       | M23            | Recherche & Insertion Professionnelle        | Préparation à l'insertion professionnelle et à la recherche d'emploi, y compris les techniques de rédaction de CV et d'entretien. |
 
-### Program (V- EN)
-
-| Year  | Semester | Module Code | Title                                           | Description                                                                                      |
-|-------|----------|-------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **M1** | S1       | M1          | Advanced Algorithmics                           | In-depth study of algorithms and techniques for solving complex computing problems.             |
-|       | S1       | M2          | Python and Machine Learning                     | Introduction to Python applications for Machine Learning, exploring learning algorithms.         |
-|       | S1       | M3          | Sensors and Data Acquisition                    | Study of sensors and real-time data acquisition methods.                                        |
-|       | S1       | M4          | Statistical Data Analysis                       | Advanced techniques for statistical data analysis.                                              |
-|       | S1       | M5          | Advanced Databases                              | Management and manipulation of relational and non-relational databases.                          |
-|       | S1       | M6          | Languages and Communication 1                   | Development of written and verbal communication skills in academic and professional settings.    |
-|       | S1       | M7          | Advanced University Methodology                 | Techniques and approaches for conducting academic research and writing scientific reports.       |
-|       | S2       | M8          | Datamining and Business Intelligence            | Exploration of datamining methods and decision support systems based on business intelligence.   |
-|       | S2       | M9          | Virtualization and Cloud Computing              | Concepts of virtualization and introduction to cloud computing technologies.                     |
-|       | S2       | M10         | Cybersecurity                                   | Securing computer systems, cryptography, and risk management.                                   |
-|       | S2       | M11         | Big Data Development and Analysis               | Approaches and tools for processing massive datasets (Big Data).                                |
-|       | S2       | M12         | Deep Learning                                   | Introduction to deep neural networks and advanced architectures in deep learning.               |
-|       | S2       | M13         | Languages and Communication 2                   | Improvement of language skills and communication techniques in a professional setting.          |
-|       | S2       | M14         | Computer Graphics                               | Basics of graphic modeling, image creation, and graphical user interfaces.                      |
-| **M2: Artificial Intelligence Option** | S3 | M15 | Natural Language Processing                 | Advanced natural language processing (NLP) techniques for text analysis and understanding.       |
-|       | S3       | M16         | Computer Vision                                 | Algorithms and techniques for image recognition, object detection, and visual processing.       |
-|       | S3       | M17         | Cybersecurity and Blockchain Technology         | Security of computer systems with an introduction to blockchain technology and its applications. |
-|       | S3       | M18         | Internet of Things                              | Study of connected devices (IoT), communication protocols, and integration in smart systems.    |
-|       | S3       | M19         | Intelligent Multi-Agent Systems                 | Design and implementation of autonomous systems capable of collaborating to solve complex tasks. |
-| **M2: Software Engineering Option** | S3 | M15 | Information Systems Governance               | Management and strategy of information systems for businesses.                                  |
-|       | S3       | M16         | Software Engineering and Quality                | Software lifecycle management techniques with a focus on quality and optimization.               |
-|       | S3       | M17         | Advanced Java and Design Patterns               | Advanced study of Java and design patterns for robust software solutions.                       |
-|       | S3       | M18         | Advanced Web and Mobile Development             | Advanced techniques for web and mobile application development.                                |
-|       | S3       | M19         | Distributed Architecture Based on Microservices | Study of distributed architectures and microservices for scalable application development.       |
-| **M2 (Both Options)** | S4       | M22         | Internship in Company or Research Institution | Practical application of skills acquired during the course in a professional or research environment. |
-|       | S4       | M23         | Research & Career Development                   | Preparation for job market entry, including resume writing and interview techniques.             |
 
 
 ### Opportunités de carrière
@@ -116,7 +86,7 @@ Les objectifs du Master sont de :
     
 - Développeur Logiciel ([Développeur Logiciel-Fiche métier](https://www.michaelpage.fr/advice/fiches-m%C3%A9tiers/les-m%C3%A9tiers-de-la-tech/fiche-m%C3%A9tier-d%C3%A9veloppeur-logiciel))
   
-- Ingénieur en DevOps ([Ingénieur en DevOps - Fiche métier])(https://www.skills4all.com/metiers/devops-ingenieur/)
+- Ingénieur en DevOps ([Ingénieur en DevOps - Fiche métier](https://www.skills4all.com/metiers/devops-ingenieur/))
   
 - Architecte Solutions en Cloud Computing ([Architecte Solutions en Cloud Computing- Fiche métier](https://datascientest.com/architecte-cloud-tout-savoir))
   
