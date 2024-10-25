@@ -92,4 +92,11 @@ Les objectifs du Master sont de :
   
 - Chef de Projet Informatique ([Chef de Projet Informatique - Fiche métier](https://www.michaelpage.fr/advice/fiches-m%C3%A9tiers/les-m%C3%A9tiers-de-la-tech/fiche-m%C3%A9tier-chef-de-projet-informatique))
 
+
+
+#### Pourquoi j'ai choisi ce programme? 
+> **La structure**
+> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
  
