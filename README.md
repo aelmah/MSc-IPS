@@ -1,4 +1,4 @@
-# MSc-Data-Science-and-Engineering-
+# MSc Data Science and Engineering
 ![image](https://github.com/almasstudyjourney/MSc-Data-Science-and-Engineering/blob/main/Banner-um5.png)
 
 ## À propos de l'UM5
