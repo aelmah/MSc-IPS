@@ -1,4 +1,4 @@
-# MSc Data Science and Engineering
+# MSc Intelligent Processing Systems Specialization Artificial Intelligence and Data Science 
 ![image](https://github.com/almasstudyjourney/MSc-Data-Science-and-Engineering/blob/main/Msc-Banner.png)
 
 ## À propos de l'UM5
