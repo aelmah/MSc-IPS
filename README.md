@@ -150,15 +150,21 @@ Here are some of the books I have read or plan to read for my Master's in Intell
 
 
 
+#### Useful Links 
+[Master's Program Official Website](http://www.fsr.ac.ma/content/intelligent-processing-systems)
+
+#### Final Thoughts / Reflection
+
+> As of now, I have not yet completed the Master’s program, but I am thoroughly enjoying the learning experience and the opportunities it provides. The program is incredibly enriching, offering a balance of theoretical knowledge and hands-on practice in cutting-edge technologies like Artificial Intelligence, Machine Learning, and Data Science. 
+
+> I am excited to continue advancing through the curriculum, and I plan to update this section with my insights and detailed opinion once I complete the program. I look forward to sharing my full experience and the practical skills I've gained along the way.
 
 
+#### Contact Informations 
 
+LinkedIn: Amal El Mahraoui 
+Email: aa.elmahraoui@gmail.com
 
-
-
-#### Pourquoi j'ai choisi ce programme? 
-> **La structure**
-> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
  
