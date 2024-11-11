@@ -1,11 +1,11 @@
 # Master's in Artificial Intelligence and Data Science Speciality Intelligent Processing Systems
 ![image](https://github.com/almasstudyjourney/MSc-Data-Science-and-Engineering/blob/main/Msc-Banner.png)
 
-# Mohammed V University (UM5)
+## Mohammed V University (UM5)
 
 [Mohammed V University (UM5)](http://www.um5.ac.ma/um5/) is one of the leading higher education institutions in Morocco, located in Rabat. Founded in 1957, it is the country’s first modern university and has played a central role in training Morocco's elite, particularly in law, humanities, social sciences, technical sciences, and various other fields.
 
-## Faculties, Schools, and Institutes
+> #### Faculties, Schools, and Institutes
 
 UM5 is organized into several specialized faculties, schools, and institutes:
 
@@ -16,11 +16,11 @@ UM5 is organized into several specialized faculties, schools, and institutes:
 
 The university offers a wide range of programs from undergraduate to doctoral levels, with a strong emphasis on scientific research and international cooperation.
 
-## Values and Mission
+> #### Values and Mission
 
 [UM5](http://www.um5.ac.ma/um5/node/1001) emphasizes values of **innovation, quality, and openness** for its students and faculty. This attracts many Moroccan and international students to its various programs, and the university is actively engaged in international partnerships with prestigious institutions worldwide to promote research projects and academic exchanges.
 
-## Rankings
+> #### Rankings
 
 Mohammed V University in Rabat is frequently recognized as one of the best universities in Morocco. In 2024, it was ranked:
 
@@ -55,7 +55,7 @@ Graduates of this program are prepared for roles in data science, AI development
 
 
 
-# Program Structure
+## Program Structure
 
 | Semester | Module Code | Module Name                           | Description                                                                 | Course File Link           |
 |----------|-------------|---------------------------------------|-----------------------------------------------------------------------------|----------------------------|
@@ -83,6 +83,9 @@ Graduates of this program are prepared for roles in data science, AI development
 | **S4**   | -           | Internship & Thesis                   | Practical application of skills through a professional internship and research thesis. | [Link_to_file](#)           |
 
 
+> * Find here the program brochure:
+[Program Brochure](http://www.fsr.ac.ma/sites/default/files/INFO%20IPS%20IDRISSI_0.png)
+
 ## Objectives of the Program
 
 The **Intelligent Processing Systems** Master's program aims to:
@@ -107,7 +110,7 @@ The **Intelligent Processing Systems** Master's program aims to:
 
 
 
-# Career Opportunities after a Master’s in Intelligent Processing Systems (Artificial Intelligence and Data Science)
+## Career Opportunities after a Master’s in Intelligent Processing Systems (Artificial Intelligence and Data Science)
 
 This Master's program equips graduates with advanced skills in Artificial Intelligence and Data Science, opening up a variety of career paths across multiple industries. Here are some of the key roles that align with the competencies developed in this program:
 
@@ -140,7 +143,7 @@ With a strong foundation in AI, machine learning, data science, and related tech
 
 
 
-# Essential Books in AI & Data Science
+## Essential Books in AI & Data Science
 
 Here are some of the books I have read or plan to read for my Master's in Intelligent Processing Systems:
 
@@ -163,6 +166,7 @@ Here are some of the books I have read or plan to read for my Master's in Intell
 #### Contact Informations 
 
 LinkedIn: Amal El Mahraoui 
+
 Email: aa.elmahraoui@gmail.com
 
 
