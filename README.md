@@ -13,6 +13,7 @@ UM5 is organized into several specialized faculties, schools, and institutes:
 - [Faculty of Letters and Humanities](http://www.um5.ac.ma/um5/faculte-des-lettres-et-des-sciences-humaines-de-rabat)
 - [Faculty of Medicine and Pharmacy](https://fmp.um5.ac.ma/)
 - [Mohammadia School of Engineers (EMI)](https://www.emi.ac.ma/)
+- and more 
 
 The university offers a wide range of programs from undergraduate to doctoral levels, with a strong emphasis on scientific research and international cooperation.
 
@@ -138,6 +139,19 @@ This Master's program equips graduates with advanced skills in Artificial Intell
 ---
 
 With a strong foundation in AI, machine learning, data science, and related technologies, graduates of this program are well-prepared to pursue these impactful career paths and contribute to innovations across industries.
+
+## Why did I Chose This Master's Program? 
+
+   * **Language of Instruction**
+This program is taught in English, which was a major factor in my decision. 
+During my ***bachelor thesis project***, which was a research-focused project, I encountered a significant challenge: most academic articles, books, and resources were in English. This experience motivated me to seek a master's program taught in English, as it would better prepare me to engage with the global academic and professional community in Computer Science.
+
+  * **The structure of this master's program** is one of its strongest aspects. It is thoughtfully designed to provide a balanced mix of theoretical knowledge and practical skills, ensuring a comprehensive learning experience. The first semester focuses on foundational concepts and essential techniques, while the second semester delves into advanced topics and emerging technologies. This progression allows students to build a strong base before tackling specialized and cutting-edge areas.
+    
+  * One of the standout features of this master's program is its **flexibility** in catering to diverse career aspirations. **Unlike many other programs**, it offers students the opportunity to either pursue a **research-oriented master's thesis** or opt for a **professional internship**. This dual approach allows students to tailor their experience based on their goals:
+
+    * For those **interested in research**, the program provides access to advanced laboratories and support for conducting innovative thesis projects, which can serve as a strong foundation for pursuing a PhD.
+    * For students aiming to **enter the workforce**, the internship option ensures hands-on industry experience, bridging the gap between academic learning and professional application.
 
 
 
