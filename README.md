@@ -25,7 +25,6 @@ The university offers a wide range of programs from undergraduate to doctoral le
 
 Mohammed V University in Rabat is frequently recognized as one of the best universities in Morocco. In 2024, it was ranked:
 
-- **1st nationally** in multiple rankings, including UniRank and CWUR (Center for World University Rankings).
 - Among the **top 100 universities in Africa**, with particular recognition in fields like engineering and social sciences.
 
 ---
