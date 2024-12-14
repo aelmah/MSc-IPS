@@ -1,4 +1,4 @@
-# Master's of Computer Science Intelligent Processing Systems
+# Master's in Computer Science Intelligent Processing Systems
 ![image](https://github.com/almasstudyjourney/MSc-Artficial-Intelligence-and-Data-Science-IPS/blob/main/Msc%20Banner.png)
 
 ## Mohammed V University (UM5)
