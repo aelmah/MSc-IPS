@@ -1,4 +1,4 @@
-# Master's in Computer Science Intelligent Processing Systems
+# MSc-IPS
 ![image](https://github.com/almasstudyjourney/MSc-Artficial-Intelligence-and-Data-Science-IPS/blob/main/Msc%20Banner.png)
 
 ## Mohammed V University (UM5)
@@ -20,12 +20,6 @@ The university offers a wide range of programs from undergraduate to doctoral le
 > #### Values and Mission
 
 [UM5](http://www.um5.ac.ma/um5/node/1001) emphasizes values of **innovation, quality, and openness** for its students and faculty. This attracts many Moroccan and international students to its various programs, and the university is actively engaged in international partnerships with prestigious institutions worldwide to promote research projects and academic exchanges.
-
-> #### Rankings
-
-Mohammed V University in Rabat is frequently recognized as one of the best universities in Morocco. In 2024, it was ranked:
-
-- Among the **top 100 universities in Africa**, with particular recognition in fields like engineering and social sciences.
 
 ---
 
